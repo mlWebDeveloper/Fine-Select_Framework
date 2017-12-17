@@ -4,7 +4,7 @@
   getTag,           // document.getElementsByTagName()
   getClass,         // document.getElementsByClassName()
   getName,          // document.getElementsByName()
-  queryEl,
+  queryEl,          // document.query()
   createEl,         // document.createElement()
   setItem,          // localStorage.setItem()
   setAttributes,    // Set multiple attributes to one element
